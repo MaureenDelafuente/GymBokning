@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\models\\gymclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\models\\gymclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\controllers\\gymclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\controllers\\gymclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GymBokning_f2fa6e39_6abd_49a4_b95d_7f8aa3c16501/True/SqlTable/dbo.GymClasses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GymBokning_f2fa6e39_6abd_49a4_b95d_7f8aa3c16501/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|d:\\maureen\\source\\repos\\ovningar2024\\gymbokning\\gymbokning\\models\\applicationusergymclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBD9C78-C4A5-42CF-BCF9-DA3B9CBAC756}|GymBokning\\GymBokning.csproj|solutionrelative:gymbokning\\models\\applicationusergymclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 235,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GymBokning\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:09:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.GymClasses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GymBokning_f2fa6e39_6abd_49a4_b95d_7f8aa3c16501/True/SqlTable/dbo.GymClasses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GymBokning_f2fa6e39_6abd_49a4_b95d_7f8aa3c16501/True/SqlTable/dbo.GymClasses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T00:16:59.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GymBokning_f2fa6e39_6abd_49a4_b95d_7f8aa3c16501/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GymBokning_f2fa6e39_6abd_49a4_b95d_7f8aa3c16501/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T00:11:18.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GymClassesController.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Controllers\\GymClassesController.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Controllers\\GymClassesController.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Controllers\\GymClassesController.cs",
+              "RelativeToolTip": "GymBokning\\Controllers\\GymClassesController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:57:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "GymBokning\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "GymBokning\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:54:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Program.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Program.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Program.cs",
+              "RelativeToolTip": "GymBokning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:28:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUserGymClass.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Models\\ApplicationUserGymClass.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Models\\ApplicationUserGymClass.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Models\\ApplicationUserGymClass.cs",
+              "RelativeToolTip": "GymBokning\\Models\\ApplicationUserGymClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:55:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "GymBokning\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:35:09.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GymBokning\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:29:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GymClass.cs",
+              "DocumentMoniker": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Models\\GymClass.cs",
+              "RelativeDocumentMoniker": "GymBokning\\Models\\GymClass.cs",
+              "ToolTip": "D:\\Maureen\\source\\repos\\Ovningar2024\\GymBokning\\GymBokning\\Models\\GymClass.cs",
+              "RelativeToolTip": "GymBokning\\Models\\GymClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:20:27.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
